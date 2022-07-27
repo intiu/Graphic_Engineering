@@ -1,0 +1,4 @@
+﻿ Trong File (Video_10_loading_3D_model) thì ch?y b?ng file (Window8.py)
+ Trong File (Video_12_3D_model_revisited) thì ch?y b?ng file (video_12_model_loading_rev.py)
+ Trong Thu m?c (models) thì có các file OBJ VÀ JPG(thêm màu s?c cho OBJ). Ngoài vi?c load OBJ còn có thêm màu s?c,...
+
